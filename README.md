@@ -5,3 +5,9 @@ bsc -sim file_name
 bsc -sim -e Top_module_name
 #code output command
 ./a.out
+
+
+
+
+# set the environment variable in linux
+nano ~/.bashrc
